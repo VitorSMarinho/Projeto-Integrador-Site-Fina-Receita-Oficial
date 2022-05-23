@@ -1,2 +1,2 @@
-# Projeto-Integrador-Site-Fina-Receita-Oficial
-Projeto da Faculdade Fatec - Curso Sistemas para Internet 1º Semestre
+# Fina Receita
+ Arquivos do site Fina Receita, referente ao projeto intregador da Fatec - Taquaritinga, curso de Tecnologia de Sistemas para Internet
